@@ -1,0 +1,32 @@
+.bg{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vw;
+}
+.column{
+  margin: 2em;
+  display: table;
+  justify-content: center;
+}
+.container{
+  margin-top: 5em;
+  width: 20%;
+  border: 2px solid black;
+  background-color: rgba(255, 0, 68, 0.371);
+  border-radius: 10px;
+  text-align: center;
+}
+button{
+  margin: 1em;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 10px;
+  border: 1px solid black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: rgba(0, 255, 166, 0.679);
+}

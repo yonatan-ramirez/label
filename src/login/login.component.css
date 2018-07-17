@@ -1,0 +1,35 @@
+.column{
+  justify-content: center;
+  /* margin-top: 10em; */
+}
+.column2{
+  justify-content: center;
+  margin-top:1em;
+}
+.container{
+  border: 2px solid black;
+  background-color:rgba(255, 153, 0, 0.583);
+  border-radius: 10px;
+  width: 18%;
+  margin-top: 5em;
+}
+.login{
+  text-align: center;
+  background-color: rgba(5, 255, 117, 0.248);
+  border-radius: 10px;
+  width: 200px;
+}
+button{
+  margin: 1em;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btn2{
+  background-color: rgb(0, 255, 145);
+  border: 1px solid black;
+}

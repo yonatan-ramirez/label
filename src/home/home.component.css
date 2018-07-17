@@ -1,0 +1,20 @@
+button{
+  margin: 1em;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgba(25, 25, 112, 0.707);
+}
+.container{
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 5em;
+  width: 300px;
+  background-color: rgba(140, 0, 255, 0.296);
+}
